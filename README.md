@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Cenkut
 
-<!--
-**cenkut/cenkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building real-world commerce systems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm building
+- PointOf → ERP + POS + E-commerce (multi-tenant SaaS)
+- E-commerce integrations (Trendyol, N11, etc.)
+- AI agents & automation workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech
+.NET • Blazor • MSSQL • Docker • Kubernetes
+
+## 🧠 Focus
+- SaaS architecture
+- Multi-tenant systems
+- Real business workflows (not demos)
+
+## 📍 Currently
+Scaling PointOf with real users
+
+
+## 🔧 Stack
+![.NET](https://img.shields.io/badge/.NET-8-blue)
+![Blazor](https://img.shields.io/badge/Blazor-Server-purple)
+![MSSQL](https://img.shields.io/badge/MSSQL-Database-red)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Kubernetes](https://img.shields.io/badge/K8s-Orchestration-blue)
+
+
+
+> I don’t build demos. I build systems that run businesses.
